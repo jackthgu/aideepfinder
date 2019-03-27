@@ -1,0 +1,2 @@
+1. Make sure you read all data as it is (the items in the top row are not the column names).
+2. Importig entire dataset everytime when calculating the future prediction of only one mid is very inefficient. When implementing in practice, make sure you separate the data import part and data loading part (selecting specific mid).
